@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England &amp; Scotland: or, The proceedings of the Parliament of England, the Confession of the Church of Scotland. Also severall advertisements 1. To the city, and to the associated counties. 2. To those who engage themselves 1. For liberty. 2. For religion. 3. For Gods, and Christs cause.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83941</idno>
+            <idno type="STC">Wing E2929</idno>
+            <idno type="STC">Thomason E2_5</idno>
+            <idno type="STC">ESTC R2444</idno>
+            <idno type="EEBO-CITATION">99872063</idno>
+            <idno type="PROQUEST">99872063</idno>
+            <idno type="VID">154649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154649)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E2[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England &amp; Scotland: or, The proceedings of the Parliament of England, the Confession of the Church of Scotland. Also severall advertisements 1. To the city, and to the associated counties. 2. To those who engage themselves 1. For liberty. 2. For religion. 3. For Gods, and Christs cause.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This can hardly be a second Oxford edition, and may well be a London counterfeit though it cannot be proved"--Madan.</note>
+                  <note>The words "1. To the city, .. themselves" and "1. For liberty. .. cause." are bracketed together on title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "July 15th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History, (17th century) --  Early works to 1800.</term>
+               <term>Church of Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154649:1" rendition="simple:additions"/>
+            <p>England &amp; Scotland: OR, The proceedings of the Parliament of <hi>England,</hi> The Confeſsion of the Church of <hi>Scotland.</hi>
+            </p>
+            <p>ALSO <hi>Severall Advertiſements</hi>
+               <list>
+                  <item>1. To the City, and to the Aſſociated Counties.</item>
+                  <item>2. To thoſe who engage themſelves
+<list>
+                        <item>1. <hi>For Liberty.</hi>
+                        </item>
+                        <item>2. <hi>For Religion.</hi>
+                        </item>
+                        <item>3. <hi>For Gods, and Chriſts Cauſe.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <q>
+               <bibl>LUKE 19. 41, 42.</bibl>
+               <p>And when he was come near, he beheld the citie, and wept over it, Saying, If thou hadſt known, even thou, at leaſt in this thy day, the things which belong unto thy peace but now they are hid from thine eyes.</p>
+            </q>
+            <p>OXFORD, Printed by H. HALL. 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:154649:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>AFter many &amp; too many Pamphlets which have obſcured the Truth, I here preſent thee with a ſhort Abſtract of the proceedings untill the taking up of Arms; thereby to inform thee of the true ſtate of the preſent difference, and from hence muſt thy conſcience be regula<g ref="char:EOLhyphen"/>ted; and not from the after carriage and ſuc<g ref="char:EOLhyphen"/>ceſſe of the War.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb n="1" facs="tcp:154649:2"/>
+            <head>An Abſtract of the Proceedings of Parliament from the firſt Convention (<hi>Nov.</hi> 3. 1640.) unto the taking up of Arms, which was <hi>June</hi> 10. 1642. According to three diſtinct periods of time.</head>
+            <div n="1" type="period">
+               <head>The firſt Period, containing ſeverall Acts paſſed by the King and both Houſes of Parliament.</head>
+               <p n="1">1 FOr a Trienniall Parliament.</p>
+               <p n="2">2. For the Abolition of the Star-Chamber.</p>
+               <p n="3">3. For taking away the High-Commiſſion court.</p>
+               <p n="4">4. Againſt Ship-money.</p>
+               <p n="5">5. Againſt Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t and Conduct-money.</p>
+               <p n="6">6. Againſt Monopolies.</p>
+               <p n="7">7. For bounding all the Forreſts in England.</p>
+               <p n="8">8. Concerning Tunnage and Poundage.</p>
+               <p n="9">9. For regulating the office of the Clerke of the Market.</p>
+               <p n="10">10. Concerning the buſineſſe of Knighthood.</p>
+               <p n="11">11. For the continuance of this Parliament.</p>
+               <p>By which Acts, the ſeverall Grievances were remedied, which the Lords had ſet forth in their Petition, lately preſent<g ref="char:EOLhyphen"/>ed to His Majeſty at <hi>Yorke.</hi>
+               </p>
+               <p>A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alſo by the firſt, and the laſt of thoſe Acts, aſſurance was give<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of farther remedies in that kinde, both for the preſent, and for the time to come, as is ſet forth in the Remonſtrance of the ſtate of the Kingdome, <hi>Decemb.</hi> 15.</p>
+            </div>
+            <div n="2" type="period">
+               <head>The ſecond Period, containing the proceedings of both Houſes of Parliament, before the Tumults.</head>
+               <p>1. A Bill for removing the Biſhops from their Votes in the<note place="margin">1641. Biſhops Votes.</note> Lords Houſe paſſed the Houſe of Commons: In the Houſe of Peeres, after ſeverall long free debates, it was by very much the major part abſolutely rejected.</p>
+               <pb n="2" facs="tcp:154649:3"/>
+               <p>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:154649:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:154649:4"/> 2. A Bil was brought into the Houſe of Commons for the ex<g ref="char:EOLhyphen"/>tirpation<note place="margin">Root and branch.</note> of Biſhops, and of Deanes, and Chapters, but it paſſed not.</p>
+               <p>3. Sir <hi>Arthur Haſlerig</hi> brought in a Bill to place a Generall at Land, and an Admirall at Sea, with abſolute power over the Subject; and it was rejected.</p>
+               <p>4. The Houſe of Lords publiſhed an Order for the due obſerva<g ref="char:EOLhyphen"/>tion<note place="margin">Publick wor<g ref="char:EOLhyphen"/>ſhip.</note> of the Laws concerning the publique worſhip of God, 9. <hi>Sept.</hi>
+               </p>
+               <p>5. A Vote paſſed in the Houſe of Commons for the Book of<note place="margin">Book of Com<g ref="char:EOLhyphen"/>mon prayer.</note> Common Prayer, in <hi>Novemb.</hi>
+               </p>
+            </div>
+            <div n="3" type="period">
+               <head>The third Period containing the proceedings between the King and the Houſes of Parliament, ſince the Tumults.</head>
+               <p>1. In <hi>Decemb.</hi> the Houſe of Commons publiſhed a Remon<g ref="char:EOLhyphen"/>ſtrance of the ſtate of the Kingdome, ſetting forth all the Er<g ref="char:EOLhyphen"/>rors of His Majeſties Government. Wherein alſo they declare, That the Party of Biſhops and Popiſh Lords in the Houſe of Peeres, have hindred the proceeding of divers good Bills paſ<g ref="char:EOLhyphen"/>ſed<note place="margin">Tumul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</note> in the Commons Houſe concerning the Reformation of ſundry great Abuſes and Corruptions both in Church &amp; State. And thereupon the Tumultuous People in and about <hi>London</hi> reſort to <hi>Weſtminſter</hi> with clubs and ſwords, crying through the ſtreets, Weſtminſter-Hall, and between the two Houſes, <hi>No Biſhops, No Biſhops, No Popiſh Lords;</hi> and miſuſing the ſeverall Members of either Houſe, who, they were informed,<note place="margin">Biſhops Votes.</note> favoured not their ends; and uſing ſeditious and traiterous ſpeeches againſt His Majeſty himſelfe.</p>
+               <p>The Lords twice moved the Houſe of Commons to joyn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with them in an Order againſt Tumults.</p>
+               <p>His Majeſty alſo ſent a Meſſage to the Lord Mayor for pre<g ref="char:EOLhyphen"/>venting the like tumultuous Aſſemblies.</p>
+               <p>2. <hi>Ian.</hi> 4. The King exhibited Articles of High-Treaſon againſt<note place="margin">The Members accuſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</note> the Lord <hi>Kymbolton,</hi> and the five Members; as for other mat<g ref="char:EOLhyphen"/>ters, ſo for endeavouring to ſubvert the Fundamentall Lawes and Government of this Kingdome; and to deprive him of his Regall power, and to place an Arbitrary, and Tyrannicall power in Subjects: and for raiſing and countenancing Tu<g ref="char:EOLhyphen"/>mults, thereby to compell the Parliament to order, limit, and diſpoſe their Proceedings as might concur with their Deſigns.</p>
+               <pb n="3" facs="tcp:154649:4"/>
+               <p>Upon an Order publiſhed by the Houſe of Commons againſt the Arreſting of their Members, the King goes in Perſon to de<g ref="char:EOLhyphen"/>mand them.</p>
+               <p>The Houſes thereupon adjourn themſelves into London, and the City takes the Members into protection, under pretence of maintaining the priviledge of Parliament. The neighbouring Counties alſo do the like, as appears by their ſeveral Petitions.</p>
+               <p>And <hi>Ian.</hi> 11. the accuſed Members are guarded to <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> with a great force both by water and land.</p>
+               <p>To compoſe theſe diſtempers, his Majeſty ſent a Meſſage to both Houſes, <hi>Ian.</hi> 20. Adviſing them to take into conſiderati<g ref="char:EOLhyphen"/>on all ſuch particulars as they held neceſſary for upholding his juſt Regall power, and ſetling his Revenue; as alſo for eſta<g ref="char:EOLhyphen"/>bliſhing Religion (with due regard to tender conſciences in point of Ceremonies) and for ſecuring their Priviledges, and the liberty of the Subject.</p>
+               <p>3. For their better ſecurity whilſt they ſhould debate &amp; pur<g ref="char:EOLhyphen"/>ſue<note place="margin">The power of the Kingdom.</note> this Meſſage, the Houſe of Commons Petition his Majeſty, that the Militia, and the forts and Caſtles may be put in the hands of ſuch men as they did conſide in, <hi>Ian.</hi> 27.</p>
+               <p>Becauſe the Major part of Lords would not concur with the Houſe of Com. in the buſines of the Militia, the poor people in<note place="margin">The Militia.</note> and about <hi>London,</hi> petition the Houſe of Commons againſt thoſe Lords, as Malignants, and as diſturbers of their peace, and threaten to remove them (<hi>Ian.</hi> 31.) ſo they withdrew them<g ref="char:EOLhyphen"/>ſelves; and the Militia was carried by the remaining party of the Lords.</p>
+               <p>In <hi>Febr.</hi> and <hi>March,</hi> Both the Houſes petition the King a<g ref="char:EOLhyphen"/>bout the Militia: His Majeſty condeſcends to commit the Ex<g ref="char:EOLhyphen"/>ecution of the Militia (in the ſeverall Counties) to ſuch men as they ſhould r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>commend unto him. But this ſatisfied them not: and they vote his Majeſties Commiſſions of Lieutenan<g ref="char:EOLhyphen"/>cy to be Illegall; and they ſettle the Militia by an Ordinance; excluding his Majeſty from any power in the diſpoſition or execution of it.</p>
+               <p>In <hi>Aprill,</hi> when his Majeſty ſent them the Meſſage of his in<g ref="char:EOLhyphen"/>tention to go into <hi>Ireland,</hi> he ſent them alſo a Bill for ſetling the Militia of the whole Kingdom for one yeare in the hands of thoſe men they had recommended unto him; ſo that him<g ref="char:EOLhyphen"/>ſelf
+<pb n="4" facs="tcp:154649:5"/> ſhould not be able to execute it without the adviſe of the Parliament, and when his Majeſty ſhould be out of the King<g ref="char:EOLhyphen"/>dom, the ſole execution to be in them.</p>
+               <p>They on the contrary offer him a Bill for ſetling it abſolute<g ref="char:EOLhyphen"/>ly in the hands of ſome men, excluding his Majeſty altoge<g ref="char:EOLhyphen"/>ther, for two yeares.</p>
+               <p>In <hi>May,</hi> They Declare againſt the Kings Negative Voice<note place="margin">The Kings ne<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tive Vote.</note> (even in the buſineſſe of the Militia; without which his Ma<g ref="char:EOLhyphen"/>jeſty cannot diſcharge his Kingly Office, and protect his peo<g ref="char:EOLhyphen"/>ple) Alſo they ſay, that they ſhould not want modeſty, or duty, if they followed the higheſt precedents of other Parliaments.</p>
+               <p>4. To compoſe the differences ariſen, &amp; to ſatisfy their feares,<note place="margin">The 19 Pro<g ref="char:EOLhyphen"/>poſitions.</note> and jealouſies, they offer to his Majeſty 19 Propoſitions, <hi>Iune</hi> 2. which ſtrike at Regall power it ſelf; and would transfer it to, and ſettle it in, the Houſes of Parliament for ever<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſo of a Monarchy would make this an Ariſtocracy and Democracy; (ſutable to the Government they intend in the Church, the Presbitery:) and upon the Kings refuſall of them, they publiſh Propoſitions for bringing in of money, &amp;c. to raiſe an Army. <hi>Iune</hi> 10.</p>
+               <p>5. From the premiſes it appeares; that the publike grievances<note place="margin">The reſult.</note> of the Kingdome were all remedied at the beginning of the Parliament: And that preſently there was an attempt (by ſome) to alter the government of the Church and State: And when they could not compaſſe it in a free Parliamentary way, that they attempted it firſt by Tumults, foreing the Parliament; and afterward by Armes to force the King.</p>
+               <p>And in this caſe I would have every one, complying with them, to conſider the Doctrine of the Church of <hi>Scotland</hi> con<g ref="char:EOLhyphen"/>cerning the Civil Magiſtrates, delivered in theſe following words;</p>
+               <p>
+                  <hi>We confeſſe, and acknowledge, Empires, Kingdomes, Domini<g ref="char:EOLhyphen"/>ons,</hi>
+                  <note place="margin">The Scottiſh Confeſſion.</note> 
+                  <hi>and Cities, to be diſtincted, and ordained by God. The powers, and Authoritits in the ſame (be it of Emperors in their Em<g ref="char:EOLhyphen"/>pires, Kings in their realmes, Dukes, and Princes in their Do<g ref="char:EOLhyphen"/>minions, and of other Magiſtrates in their Cities) to be Gods Holy Ordinance; ordained for the manifeſtation of his own Glory, and for the ſingular profit, and commodity of mankinde: ſo that whoſoever goeth about to take away, or to confound the
+<pb n="5" facs="tcp:154649:5"/> whole State of Civil policies now long eſtabliſhed, we affirme the ſame men not onely to be enemies to mankinde, but alſo wickedly to fight againſt Gods expreſſed will.</hi>
+               </p>
+               <p>It being evident, how, and by what meanes the Power of the Kingdom was ſeized on, and why and to what end Armes were ta<g ref="char:EOLhyphen"/>ken up, on the one ſide; tis thereby manifeſt alſo wherefore they are taken up on the other ſide:</p>
+               <p n="1">1. To maintaine the Liberty and Freedom of Vote in Parliament<note place="margin">Why the King taketh up Armes.</note> againſt Tumults.</p>
+               <p n="2">2. For recovery of his Majeſties Rights and Prerogatives.</p>
+               <p n="3">3. For redemption of the ſubject in point of Propriety, and Li<g ref="char:EOLhyphen"/>berty, from new and illegall impoſitions and impriſonments.</p>
+               <p n="4">4. To reduce the ſubject to obedience in point of the Militia, and of the Lawes concerning Religion.</p>
+               <p>So the King and his forces come amongſt you to Right the Par<g ref="char:EOLhyphen"/>liament,<note place="margin">The advertiſe<g ref="char:EOLhyphen"/>ments.</note> and himſelf, and to reduce you and to take you into his protection, and to require aide, and comfort of you. And (ſaith the confeſſion of the Church of <hi>Scotland,</hi> which by the Covenant you<note place="margin">To the City and Countries.</note> have ſworne to maintaine) They who deny comfort and aide to Kings and Princes, travelling vigilantly in their office, as his Maje<g ref="char:EOLhyphen"/>ſty doth, even to the hazard of his life: deny aide and comfort to God himſelf, who requires it of them by his Lieutenant.</p>
+               <p>Beſides we have all a ſpeciall obligation upon us (by our Oathes of Allegiance, and Supremacy) to defend the Kings Perſon, his Crowne, and Dignity; and to maintaine and defend all his Prehe<g ref="char:EOLhyphen"/>minences, Priviledges and Prerogatives whatſoever.</p>
+               <p>Nor do his Majeſties forces come (as you conceive) to invade, ſpoile, kill, and ſlay, nor to exerciſe any hoſtility, unleſſe oppoſed by you; and oppoſing in this caſe, doubtleſſe you cannot but be guilty of reſiſting the Ordinance of God. (<hi>Rom.</hi> 13.) and of all the blood<g ref="char:EOLhyphen"/>ſhed and rapine, and devaſtation that ſhall happen upon your re<g ref="char:EOLhyphen"/>ſiſtance.</p>
+               <p>And whereas men ordinarily engage themſelves for Liberty, and for Religion; I would have them to conſider (as I conceive)</p>
+               <p n="1">1. That our Liberty, as it was ſufficiently aſſerted, and ſetled by<note place="margin">Of Liberty.</note> divers Acts in the beginning of the Par<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo it might have been kept inviolate by the authority of the Parl. ſitting ſo long as they pleaſe; and by the power of the Militi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſetled in the hands of thoſe men whom they had recommended to His Majeſty: But (I feare) Liberty with ſubjection doth not ſuffice now: and the affectation of
+<pb n="6" facs="tcp:154649:6"/> Liberty without Subjection is no leſſe then Rebellion.</p>
+               <p n="2">2. That our Religion by Law eſtabliſhed might have been preſer<g ref="char:EOLhyphen"/>ved<note place="margin">Of Religion.</note> alſo by the ſame Authority and Power; and by the ſame meanes their Priviledges alſo might have been preſerved and ſecured.</p>
+               <p>Beſides, his Majeſty by his Proclamation had required the due obſervation of the Lawes concerning Religion; and it is a cauſe in part of his Majeſties taking up Armes, to maintaine the Religion by Law eſtabliſhed.</p>
+               <p>And (as concerning Popery) to ſuppreſſe the growth thereof<note place="margin">Of Popery.</note> his Majeſty had by a Proclamation required the Lawes againſt Po<g ref="char:EOLhyphen"/>piſh Recuſants to be put in execution without favor or connivence.</p>
+               <p>And (to root out Popery) his Majeſty offered to joyne with the two Houſes in any further Act againſt Prieſts, and Jeſuits diſturb<g ref="char:EOLhyphen"/>ing the State, and againſt Papiſts eluding the Laws by truſt: and for the education of the children of Papiſts by Proteſtants in the Proteſtant Religion.</p>
+               <p>But their extirpation muſt be Military, not Parliamentary; And they are not content with preſerving, but fight for altering Religion by Law eſtabliſhed; if not in Doctrine (as I doubt whe<g ref="char:EOLhyphen"/>ther the Doctrine of the Church of <hi>England,</hi> concerning Active and Paſſive Subjection, delivered in the bookes of Homilies will ſtand, or no) yet in the forme of Worſhip, and frame of Church Go<g ref="char:EOLhyphen"/>vernment, and that againſt the Lawes, the King, the Order and Vote of the Houſes before the Tumults.</p>
+               <p>Laſtly, whereas men flatter themſelves, that they fight for Gods cauſe, and for Chriſts cauſe. (<hi>i. e.</hi>) For the Presbyterian Diſcipline,<note place="margin">O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſt his cauſe.</note> and Government, which they conceive to be of Gods and Chriſts own inſtitution; I would have them enquire and informe them<g ref="char:EOLhyphen"/>ſelves, whether the Houſe of Commons have not voted that Go<g ref="char:EOLhyphen"/>vernment, and Diſcipline not to be of Divine Right; and whether<note place="margin">Of the Presby<g ref="char:EOLhyphen"/>tery.</note> they have not reſolved, and profeſſed that they wil admit no Church Government to be of Divine Right, that they may order and alter it as they pleaſe; and whether this be not the chiefe reaſon wherefore they deny the Divine Right of Epiſcopacy.</p>
+            </div>
+            <epigraph>
+               <q>
+                  <bibl>PROV. 24. 21, 22.</bibl>
+                  <p>My Son, feare thou the Lord and the King, and meddle not with them that are given to change.</p>
+                  <p>For their calamity ſhall riſe ſuddenly, and who knoweth the ruine of them both?</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
